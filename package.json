@@ -1,0 +1,14 @@
+{
+  "name": "typescript-config-cog",
+  "version": "0.0.0-development",
+  "description": "Typescript configuration file for personal projects",
+  "main": "tsconfig.json",
+  "repository": "git@github.com:cogni8r/typescript-config-cog.git",
+  "author": "cogni8r",
+  "license": "MIT",
+  "keywords": [
+    "typescript",
+    "config",
+    "gearsjs"
+  ]
+}

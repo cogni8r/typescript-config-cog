@@ -1,0 +1,57 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    //"baseUrl": "./",
+    // "outDir": "./dist/out-tsc",
+
+    // ----- Main options -----
+    "target": "ESNext",
+    "lib": ["ESNext"],
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "strict": true,
+
+    // ----- Non default -----
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "importHelpers": true,
+    "noEmitOnError": true,
+    "noEmitHelpers": false,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "pretty": true,
+    "sourceMap": true,
+    "stripInternal": true,
+    "skipLibCheck": true,
+    "useDefineForClassFields": true,
+    "isolatedModules": true,
+
+    // ----- strict === true -----
+    "alwaysStrict": true,
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "strictBindCallApply": true,
+    "strictFunctionTypes": true,
+    "strictPropertyInitialization": true,
+    "strictNullChecks": true,
+    "importsNotUsedAsValues": "error",
+    "noUncheckedIndexedAccess": true,
+    "noPropertyAccessFromIndexSignature": true,
+
+    // ----- project references -----
+    "incremental": false,
+    "composite": false,
+    "declaration": true,
+    // "declarationDir": "",
+    "declarationMap": true
+
+    // "typeRoots": [],
+
+    // ---- Deprecated -----
+    // "out": "",
+    // "reactNamespace": "React",
+    // "skipDefaultLibCheck": false
+  }
+}
