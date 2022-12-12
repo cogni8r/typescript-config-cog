@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.1.0](https://github.com/cogni8r/typescript-config-cog/compare/v1.0.1...v1.1.0) (2022-12-12)
+
+
+### Features
+
+* add few strict properties ([8cef6b4](https://github.com/cogni8r/typescript-config-cog/commit/8cef6b4e55293f183fe90019ac7ee7b3c1d9e6c1))
+
 ## [1.0.1](https://github.com/cogni8r/typescript-config-cog/compare/v1.0.0...v1.0.1) (2022-01-29)
 
 
