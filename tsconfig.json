@@ -39,6 +39,8 @@
     "importsNotUsedAsValues": "error",
     "noUncheckedIndexedAccess": true,
     "noPropertyAccessFromIndexSignature": true,
+    "useUnknownInCatchVariables": true,
+    "noImplicitOverride": true,
 
     // ----- project references -----
     "incremental": false,
