@@ -23,6 +23,7 @@
     "skipLibCheck": true,
     "useDefineForClassFields": true,
     "isolatedModules": true,
+    "verbatimModuleSyntax": true,
 
     // ----- strict mode -----
     "alwaysStrict": true,
