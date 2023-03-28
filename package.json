@@ -1,6 +1,6 @@
 {
   "name": "typescript-config-cog",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Typescript configuration file for personal projects",
   "main": "tsconfig.json",
   "repository": "git@github.com:cogni8r/typescript-config-cog.git",
